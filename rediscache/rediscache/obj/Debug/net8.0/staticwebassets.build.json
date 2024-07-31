@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hVOWZaVn8WlZenL5pdpJOaBKm2aC7cGZR1yhr7NlGWY=",
+  "Source": "rediscache",
+  "BasePath": "_content/rediscache",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
